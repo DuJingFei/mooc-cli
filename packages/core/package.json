@@ -1,6 +1,6 @@
 {
   "name": "@imooc-cli-dev/core",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "imooc-cli-dev core",
   "author": "jingfei_du <740677751@qq.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
     "test": "echo \"Run testing from core"
   },
   "dependencies": {
-    "@imooc-cli-dev/utils": "^0.0.3"
+    "@imooc-cli-dev/utils": "^0.0.4"
   },
   "gitHead": "d1a9958d7fdaa4dedce3c7c82b0ea6386ab2fa6a"
 }
